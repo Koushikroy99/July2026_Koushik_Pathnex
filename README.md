@@ -80,8 +80,8 @@ July2026_Koushik_Pathnex/
 
 | Topic | Status |
 |--------|--------|
-| 🐧 Linux | ✅ Completed |
-| 🌿 Git & GitHub | 🔄 In Progress |
+| 🐧 Linux | ⏳ Pending |
+| 🌿 Git & GitHub | ⏳ Pending |
 | ☁️ AWS | ⏳ Pending |
 | 🐳 Docker | ⏳ Pending |
 | ☸️ Kubernetes | ⏳ Pending |
