@@ -53,8 +53,6 @@ The goal is to build practical DevOps skills by following industry workflows and
 
 ---
 
-## 📂 Repository Structure
-
 ## 🎯 Learning Roadmap
 
 - 🐧 Linux
@@ -78,37 +76,64 @@ The goal is to build practical DevOps skills by following industry workflows and
 ## 📂 Repository Structure
 
 ```
+
 July2026_Koushik_Pathnex/
-
+│
 ├── README.md
-├── timings/
-├── notes/
-├── labs/
+│
+├── timings/                    # Daily logs
+│   ├── Day01-01-Jul-2026.md
+│   └── ...
+│
+├── notes/                      # Topic-wise notes
+│   ├── Networking/             # IP, subnetting, OSI, TCP/IP
+│   ├── Linux/                  # OS, commands, administration
+│   ├── Git/
+│   ├── AWS/
+│   ├── Docker/
+│   ├── Kubernetes/
+│   ├── Helm/
+│   ├── ArgoCD/
+│   ├── Terraform/
+│   ├── Ansible/
+│   ├── Jenkins/
+│   ├── DataDog/
+│   ├── ELK/
+│   ├── Kafka/
+│   └── SRE/
+│
+├── labs/                       # Hands-on labs
+├── scripts/                    # Automation scripts
+│   ├── bash/
+│   ├── python/
+│   └── ansible/
+│
 ├── assignments/
-└── scripts/
+├── diagrams/
+└── resources/
 ```
-
 ---
 
 ## 📅 Learning Progress
 
-| Topic | Status |
-|--------|--------|
-| 🐧 Linux | ⏳ Pending |
-| 🌿 Git & GitHub | ⏳ Pending |
-| ☁️ AWS | ⏳ Pending |
-| 🐳 Docker | ⏳ Pending |
-| ☸️ Kubernetes | ⏳ Pending |
-| 📦 Helm | ⏳ Pending |
-| 🚀 Argo CD | ⏳ Pending |
-| 🏗️ Terraform | ⏳ Pending |
-| ⚙️ Ansible | ⏳ Pending |
-| 🔄 Jenkins | ⏳ Pending |
-| 📊 DataDog | ⏳ Pending |
-| 📈 ELK Stack | ⏳ Pending |
-| 📨 Kafka | ⏳ Pending |
-| 🔐 Security | ⏳ Pending |
-| 📉 SRE | ⏳ Pending |
+| Session | Topic | Status |
+|---------|-------|--------|
+| 01 | Networking (IP Addressing) | 🔄 In Progress |
+| 02 | Linux |  ⏳ Pending  |
+| 03 | Git | ⏳ Pending |
+| 04 | AWS | ⏳ Pending |
+| 05 | Docker | ⏳ Pending |
+| 06 | Kubernetes | ⏳ Pending |
+| 07 | Helm | ⏳ Pending |
+| 08 | Argo CD | ⏳ Pending |
+| 09 | Terraform | ⏳ Pending |
+| 10 | Ansible | ⏳ Pending |
+| 11 | Jenkins | ⏳ Pending |
+| 12 | DataDog | ⏳ Pending |
+| 13 | ELK Stack | ⏳ Pending |
+| 14 | Kafka | ⏳ Pending |
+| 15 | Security | ⏳ Pending |
+| 16 | SRE | ⏳ Pending |
 
 | Session | Topic | Status |
 |---------|-------|--------|
@@ -125,9 +150,14 @@ July2026_Koushik_Pathnex/
 - Practice Git workflow
 - Build production-ready skills
 - Document daily learning
+---
+
+<div align="center">
 
 ### ⭐ Consistency over perfection.
 
 ---
 
-### ⭐ Learning • Building • Improving Every Day
+### Learning • Building • Improving Every Day
+
+</div>
