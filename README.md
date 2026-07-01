@@ -55,6 +55,7 @@ The goal is to build practical DevOps skills by following industry workflows and
 
 ## 🎯 Learning Roadmap
 
+- 🌐 Networking
 - 🐧 Linux
 - 🌿 Git & GitHub
 - ☁️ AWS
@@ -81,7 +82,7 @@ July2026_Koushik_Pathnex/
 │
 ├── README.md
 │
-├── timings/                    # Daily logs
+├── daily-progress/                    # Daily logs
 │   ├── Day01-01-Jul-2026.md
 │   └── ...
 │
