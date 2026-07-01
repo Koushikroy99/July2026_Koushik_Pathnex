@@ -73,38 +73,40 @@ The goal is to build practical DevOps skills by following industry workflows and
 
 ---
 
-## 📂 Repository Structure
 July2026_Koushik_Pathnex/
 │
 ├── README.md
 │
-├── timings/ # Daily logs
-│ ├── Day01-01-Jul-2026.md
-│ └── ...
+├── timings/                    # Daily logs
+│   ├── Day01-01-Jul-2026.md
+│   └── ...
 │
-├── notes/ # Topic-wise notes
-│ ├── Networking/ # IP, subnetting, OSI, TCP/IP
-│ ├── Linux/ # OS, commands, administration
-│ ├── Git/
-│ ├── AWS/
-│ ├── Docker/
-│ ├── Kubernetes/
-│ ├── Helm/
-│ ├── ArgoCD/
-│ ├── Terraform/
-│ ├── Ansible/
-│ ├── Jenkins/
-│ ├── DataDog/
-│ ├── ELK/
-│ ├── Kafka/
-│ └── SRE/
+├── notes/                      # Topic-wise notes
+│   ├── Networking/             # IP, subnetting, OSI, TCP/IP
+│   ├── Linux/                  # OS, commands, administration
+│   ├── Git/
+│   ├── AWS/
+│   ├── Docker/
+│   ├── Kubernetes/
+│   ├── Helm/
+│   ├── ArgoCD/
+│   ├── Terraform/
+│   ├── Ansible/
+│   ├── Jenkins/
+│   ├── DataDog/
+│   ├── ELK/
+│   ├── Kafka/
+│   └── SRE/
 │
-├── labs/ # Hands-on labs
-├── scripts/ # Automation scripts
+├── labs/                       # Hands-on labs
+├── scripts/                    # Automation scripts
+│   ├── bash/
+│   ├── python/
+│   └── ansible/
+│
 ├── assignments/
 ├── diagrams/
 └── resources/
-
 
 ---
 
