@@ -39,6 +39,20 @@ The goal is to build practical DevOps skills by following industry workflows and
 
 ---
 
+## 🕐 Class Schedule
+
+| Day | Morning (6:00 AM - 9:00 AM) | Evening (7:00 PM - 9:30 PM) |
+|-----|----------------------------|----------------------------|
+| **Monday** | 🚫 Off | 🚫 Off |
+| **Tuesday** | 📚 Theory | 💻 Lab |
+| **Wednesday** | 📚 Theory | 💻 Lab |
+| **Thursday** | 📚 Theory | 💻 Lab |
+| **Friday** | 📚 Theory | 💻 Lab |
+| **Saturday** | 📚 Extended Class | 💻 Extended Lab |
+| **Sunday** | 📚 Extended Class | 💻 Extended Lab |
+
+---
+
 ## 📂 Repository Structure
 
 ## 🎯 Learning Roadmap
