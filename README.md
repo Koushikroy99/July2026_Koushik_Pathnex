@@ -20,7 +20,7 @@ The goal is to build practical DevOps skills by following industry workflows and
 
 ---
 
-## 👨‍💻 Student
+## 👨‍💻 Author
 
 | | |
 |---|---|
