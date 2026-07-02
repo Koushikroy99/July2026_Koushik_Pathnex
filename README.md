@@ -76,6 +76,7 @@ The goal is to build practical DevOps skills by following industry workflows and
 
 ## 📂 Repository Structure
 
+```
 July2026_Koushik_Pathnex/
 │
 ├── README.md
@@ -98,7 +99,7 @@ July2026_Koushik_Pathnex/
 ├── labs/ # Hands-on labs
 │
 └── screenshots/ # Screenshots
-
+```
 
 ---
 
