@@ -5,7 +5,7 @@
 ### 30 Days • Hands-on Labs • Production Learning
 
 ![Status](https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge)
-![Progress](https://img.shields.io/badge/Completed-0%2F30-red?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Completed-2%2F30-brightgreen?style=for-the-badge)
 ![DevOps](https://img.shields.io/badge/DevOps-Learning-blue?style=for-the-badge)
 
 </div>
@@ -14,7 +14,7 @@
 
 ## 📖 About
 
-This repository contains my complete **30-Day DevOps learning journey** through hands-on labs, notes, assignments, and production-style practice.
+This repository contains my complete **30-Day DevOps learning journey** at **PathNex** through hands-on labs, notes, assignments, and production-style practice.
 
 The goal is to build practical DevOps skills by following industry workflows and documenting everything professionally.
 
@@ -77,51 +77,39 @@ The goal is to build practical DevOps skills by following industry workflows and
 ## 📂 Repository Structure
 
 ```
-
 July2026_Koushik_Pathnex/
 │
 ├── README.md
 │
-├── daily-progress/                    # Daily logs
-│   ├── Day01-01-Jul-2026.md
-│   └── ...
+├── timings/ # (daily-progress) Daily learning logs
+│ ├── Day01-01-Jul-2026.md
+│ ├── Day02-02-Jul-2026.md
+│ └── ...
 │
-├── notes/                      # Topic-wise notes
-│   ├── Networking/             # IP, subnetting, OSI, TCP/IP
-│   ├── Linux/                  # OS, commands, administration
-│   ├── Git/
-│   ├── AWS/
-│   ├── Docker/
-│   ├── Kubernetes/
-│   ├── Helm/
-│   ├── ArgoCD/
-│   ├── Terraform/
-│   ├── Ansible/
-│   ├── Jenkins/
-│   ├── DataDog/
-│   ├── ELK/
-│   ├── Kafka/
-│   └── SRE/
+├── coding-practice/ # (scripts) Daily coding exercises
+│ ├── Day01-02-Jul-2026.txt
+│ ├── Day02-02-Jul-2026.txt
+│ └── ...
 │
-├── labs/                       # Hands-on labs
-├── scripts/                    # Automation scripts
-│   ├── bash/
-│   ├── python/
-│   └── ansible/
+├── notes/ # Topic-wise notes
+│ ├── Networking/ # IP, subnetting, OSI, TCP/IP
+│ ├── Git/ # Git commands, workflow
+│ └── Linux/ # OS, commands, administration
 │
-├── assignments/
-├── diagrams/
-└── resources/
+├── labs/ # Hands-on labs
+│
+└── screenshots/ # Screenshots
 ```
+
 ---
 
 ## 📅 Learning Progress
 
 | Session | Topic | Status |
 |---------|-------|--------|
-| 01 | Networking (IP Addressing) | 🔄 In Progress |
-| 02 | Linux |  ⏳ Pending  |
-| 03 | Git | ⏳ Pending |
+| 01 | Networking (IP Addressing) | ✅ Completed |
+| 02 | Git & GitHub | 🔄 In Progress |
+| 03 | Linux | ⏳ Pending |
 | 04 | AWS | ⏳ Pending |
 | 05 | Docker | ⏳ Pending |
 | 06 | Kubernetes | ⏳ Pending |
@@ -136,21 +124,16 @@ July2026_Koushik_Pathnex/
 | 15 | Security | ⏳ Pending |
 | 16 | SRE | ⏳ Pending |
 
-| Session | Topic | Status |
-|---------|-------|--------|
-| 01 | Linux | ✅ Completed |
-| 02 | Git | 🔄 In Progress |
-| 03 | AWS | ⏳ Pending |
-
 ---
 
 ## ✅ Objectives
 
-- Complete every module
-- Perform hands-on labs
-- Practice Git workflow
-- Build production-ready skills
-- Document daily learning
+- [x] Complete every module
+- [x] Perform hands-on labs
+- [x] Practice Git workflow
+- [x] Build production-ready skills
+- [x] Document daily learning
+
 ---
 
 <div align="center">
@@ -162,3 +145,5 @@ July2026_Koushik_Pathnex/
 ### Learning • Building • Improving Every Day
 
 </div>
+
+## 📂 Repository Structure
