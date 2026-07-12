@@ -24,3 +24,4 @@ node-build:
   script:
     - cd sample-node-app
     - npm run build 
+    
